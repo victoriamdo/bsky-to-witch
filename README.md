@@ -1,6 +1,6 @@
-# bsky to mu
+# bsky to witch
 
-A browser extension that automatically redirects `bsky.app` to `mu.social`.
+A browser extension that automatically redirects `bsky.app` to `witchsky.app`.
 
 ## Install
 

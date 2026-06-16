@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "regexSubstitution": "https://mu.social\\1"
+        "regexSubstitution": "https://witchsky.app\\1"
       }
     },
     "condition": {
